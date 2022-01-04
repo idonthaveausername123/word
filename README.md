@@ -1,1 +1,10 @@
-# word
+word
+car
+house
+horse
+teacher
+student
+class
+snowman
+weather
+sunny
